@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+    <svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' version='1.1'
+    width='210.00mm' height='297.00mm' viewBox='0 0 210.00 297.00'>
+<style type="text/css">
+    path {
+        fill: none;
+        stroke-linecap: butt;
+        stroke-linejoin: bevel;
+        stroke-dasharray: none;
+    }
+    path.outer {
+        stroke: #000000;
+        stroke-dasharray: none;
+        stroke-dashoffset: 0;
+        stroke-width: 2.0;
+        stroke-opacity: 1.0;
+    }
+    path.convex {
+        stroke: #ff0000;
+        stroke-dasharray: none;
+        stroke-dashoffset:0;
+        stroke-width:2.0;
+        stroke-opacity: 1.0
+    }
+    path.concave {
+        stroke: #ff0000;
+        stroke-dasharray: none;
+        stroke-dashoffset: 0;
+        stroke-width: 2.0;
+        stroke-opacity: 1.0
+    }
+    path.freestyle {
+        stroke: #000000;
+        stroke-dasharray: none;
+        stroke-dashoffset: 0;
+        stroke-width: 2.0;
+        stroke-opacity: 1.0
+    }
+    path.outer_background {
+        stroke: #ffffff;
+        stroke-opacity: 1.0;
+        stroke-width: 1e+01
+    }
+    path.inner_background {
+        stroke: #ffffff;
+        stroke-opacity: 1.0;
+        stroke-width: 4.0
+    }
+    path.sticker {
+        fill: #e5e5e5;
+        stroke: none;
+        fill-opacity: 1.0;
+    }
+    path.arrow {
+        fill: #000;
+    }
+    text {
+        font-style: normal;
+        fill: #000000;
+        fill-opacity: 1.0;
+        stroke: none;
+    }
+    text, tspan {
+        text-anchor:middle;
+    }
+    </style>
+<g>
+<path class='convex' d=' M 61.394681 210.963841 L 61.394488 258.756946
+M 135.922690 187.067608 L 61.394681 210.963841
+M 135.922526 234.861101 L 61.394681 210.963841
+M 61.394488 258.756946 L 5.000000 234.860192
+M 135.922690 187.067608 L 135.922675 139.274086
+M 135.922645 91.481010 L 135.922675 139.274086
+M 135.922675 139.274086 L 61.394756 163.171108
+M 135.922735 43.688278 L 135.922645 91.481010
+M 135.922645 91.481010 L 61.394726 115.378018
+M 135.922690 187.067608 L 61.394756 163.171108
+M 61.394726 115.378018 L 61.394756 163.171108
+M 61.394681 210.963841 L 61.394756 163.171108
+M 135.922675 139.274086 L 61.394726 115.378018
+M 61.394696 67.584525 L 61.394726 115.378018
+M 192.317252 210.964943 L 135.922526 234.861101
+M 135.922690 187.067608 L 135.922526 234.861101
+M 135.922645 91.481010 L 61.394696 67.584525 '/>
+<path class='outer' d=' M 135.922735 43.688278 L 192.317371 67.584733 L 135.922645 91.481010 L 192.317237 115.377541 L 135.922675 139.274086 L 192.317341 163.170437 L 135.922690 187.067608 L 192.317252 210.964943 L 170.260285 268.104102 L 135.922526 234.861101 L 61.394488 258.756946 L 27.056207 291.999991 L 5.000000 234.860192 L 61.394681 210.963841 L 5.000030 187.067385 L 61.394756 163.171108 L 5.000179 139.274563 L 61.394726 115.378018 L 5.000074 91.481696 L 61.394696 67.584525 Z '/>
+</g>
+</svg>

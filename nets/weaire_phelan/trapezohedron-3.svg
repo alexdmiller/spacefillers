@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+    <svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' version='1.1'
+    width='210.00mm' height='297.00mm' viewBox='0 0 210.00 297.00'>
+<style type="text/css">
+    path {
+        fill: none;
+        stroke-linecap: butt;
+        stroke-linejoin: bevel;
+        stroke-dasharray: none;
+    }
+    path.outer {
+        stroke: #000000;
+        stroke-dasharray: none;
+        stroke-dashoffset: 0;
+        stroke-width: 0.1;
+        stroke-opacity: 1.0;
+    }
+    path.convex {
+        stroke: #ff0000;
+        stroke-dasharray: none;
+        stroke-dashoffset:0;
+        stroke-width:0.1;
+        stroke-opacity: 1.0
+    }
+    path.concave {
+        stroke: #ff0000;
+        stroke-dasharray: none;
+        stroke-dashoffset: 0;
+        stroke-width: 0.1;
+        stroke-opacity: 1.0
+    }
+    path.freestyle {
+        stroke: #000000;
+        stroke-dasharray: none;
+        stroke-dashoffset: 0;
+        stroke-width: 0.1;
+        stroke-opacity: 1.0
+    }
+    path.outer_background {
+        stroke: #ffffff;
+        stroke-opacity: 1.0;
+        stroke-width: 0.5
+    }
+    path.inner_background {
+        stroke: #ffffff;
+        stroke-opacity: 1.0;
+        stroke-width: 0.2
+    }
+    path.sticker {
+        fill: #e5e5e5;
+        stroke: none;
+        fill-opacity: 1.0;
+    }
+    path.arrow {
+        fill: #000;
+    }
+    text {
+        font-style: normal;
+        fill: #000000;
+        fill-opacity: 1.0;
+        stroke: none;
+    }
+    text, tspan {
+        text-anchor:middle;
+    }
+    </style>
+<g>
+<g>
+<text transform='translate(72.83899281173944 290.99999107420444)' style='font-size:5.00'><tspan>[3] Island 3</tspan></text>
+<path class='convex' d=' M 66.275102 258.132181 L 76.551420 276.515014
+M 66.275102 258.132181 L 76.551420 239.749364 '/>
+<path class='outer' d=' M 68.983403 230.264417 L 76.551420 239.749364 L 97.104047 244.345090 L 97.104047 271.919287 L 76.551420 276.515014 L 68.983373 285.999991 L 48.777846 280.061327 L 48.573938 261.953539 L 66.275102 258.132181 L 48.573968 254.310823 L 48.777861 236.203066 Z '/>
+<text transform='matrix(0.959419 -0.281985 0.281985 0.959419 60.572539 238.990254)' style='font-size:5.00'><tspan>3</tspan></text>
+<text transform='matrix(-0.977482 -0.211021 0.211021 -0.977482 58.690661 250.356614)' style='font-size:5.00'><tspan>4</tspan></text>
+<text transform='matrix(0.977482 -0.211020 0.211020 0.977482 58.690642 265.907752)' style='font-size:5.00'><tspan>4</tspan></text>
+<text transform='matrix(0.623693 0.781670 -0.781670 0.623693 68.077390 238.749045)' style='font-size:5.00'><tspan>10</tspan></text>
+<text transform='matrix(-0.959419 -0.281985 0.281985 -0.959419 60.572525 277.274147)' style='font-size:5.00'><tspan>13</tspan></text>
+<text transform='matrix(0.011259 -0.999937 0.999937 0.011259 54.675535 245.324499)' style='font-size:5.00'><tspan>17</tspan></text>
+<text transform='matrix(-0.011260 -0.999937 0.999937 -0.011260 54.675513 270.939874)' style='font-size:5.00'><tspan>20</tspan></text>
+<text transform='matrix(0.000000 1.000000 -1.000000 0.000000 91.104050 258.132189)' style='font-size:5.00'><tspan>21</tspan></text>
+<text transform='matrix(-0.623693 0.781670 -0.781670 -0.623693 68.077375 277.515346)' style='font-size:5.00'><tspan>23</tspan></text>
+<text transform='matrix(0.975900 0.218219 -0.218219 0.975900 85.518424 247.902627)' style='font-size:5.00'><tspan>24</tspan></text>
+<text transform='matrix(-0.975900 0.218219 -0.218219 -0.975900 85.518424 268.361750)' style='font-size:5.00'><tspan>25</tspan></text>
+</g>
+<g>
+<text transform='translate(35.483320243656635 191.63951016962528)' style='font-size:5.00'><tspan>[2] Island 2</tspan></text>
+<path class='convex' d=' M 35.483305 142.879481 L 51.680443 150.967012
+M 19.286227 150.967027 L 35.483305 142.879481 '/>
+<path class='outer' d=' M 65.966641 135.496329 L 51.680443 150.967012 L 51.680450 178.540970 L 35.483335 186.639513 L 19.286242 178.541000 L 19.286227 150.967027 L 5.000000 135.496373 L 10.141191 124.506573 L 31.053719 125.322591 L 35.483305 142.879481 L 39.912884 125.322561 L 60.825435 124.506573 Z '/>
+<text transform='matrix(0.999240 -0.038989 0.038989 0.999240 50.603096 130.910004)' style='font-size:5.00'><tspan>5</tspan></text>
+<text transform='matrix(0.423739 -0.905784 0.905784 0.423739 13.005300 132.543902)' style='font-size:5.00'><tspan>6.</tspan></text>
+<text transform='matrix(-0.894428 0.447213 -0.447213 -0.894428 40.898615 177.223670)' style='font-size:5.00'><tspan>7</tspan></text>
+<text transform='matrix(0.244632 -0.969616 0.969616 0.244632 43.515791 135.568808)' style='font-size:5.00'><tspan>8</tspan></text>
+<text transform='matrix(0.244633 0.969616 -0.969616 0.244633 27.450818 135.568823)' style='font-size:5.00'><tspan>8</tspan></text>
+<text transform='matrix(-0.000001 -1.000000 1.000000 -0.000001 25.286236 164.753999)' style='font-size:5.00'><tspan>9.</tspan></text>
+<text transform='matrix(-0.894428 -0.447212 0.447212 -0.894428 30.068061 177.223685)' style='font-size:5.00'><tspan>14</tspan></text>
+<text transform='matrix(-0.678424 -0.734670 0.734670 -0.678424 16.551136 139.161150)' style='font-size:5.00'><tspan>19</tspan></text>
+<text transform='matrix(0.000000 1.000000 -1.000000 0.000000 45.680446 164.753999)' style='font-size:5.00'><tspan>21</tspan></text>
+<text transform='matrix(0.423742 0.905783 -0.905783 0.423742 57.961338 132.543902)' style='font-size:5.00'><tspan>23</tspan></text>
+<text transform='matrix(-0.678423 0.734672 -0.734672 -0.678423 54.415510 139.161135)' style='font-size:5.00'><tspan>25</tspan></text>
+<text transform='matrix(0.999240 0.038991 -0.038991 0.999240 20.363510 130.910019)' style='font-size:5.00'><tspan>26</tspan></text>
+</g>
+<g>
+<text transform='translate(29.397589154541492 123.50657321512699)' style='font-size:5.00'><tspan>[4] Island 4</tspan></text>
+<path class='convex' d=' M 22.702460 90.652267 L 33.242618 109.022941
+M 22.702460 90.652267 L 33.242618 72.257276 '/>
+<path class='outer' d=' M 25.670906 62.775563 L 33.242618 72.257276 L 53.795178 76.853017 L 53.795178 104.427229 L 33.242618 109.022941 L 25.673245 118.506576 L 5.468790 112.565215 L 5.000909 94.470958 L 22.702460 90.652267 L 5.000000 86.838032 L 5.467971 68.722094 Z '/>
+<text transform='matrix(-0.025849 -0.999666 0.999666 -0.025849 11.232845 103.362988)' style='font-size:5.00'><tspan>1</tspan></text>
+<text transform='matrix(0.959308 -0.282363 0.282363 0.959308 17.263615 71.504678)' style='font-size:5.00'><tspan>2</tspan></text>
+<text transform='matrix(0.624008 0.781418 -0.781418 0.624008 24.768257 71.260463)' style='font-size:5.00'><tspan>6.</tspan></text>
+<text transform='matrix(0.000000 1.000000 -1.000000 0.000000 47.795177 90.640123)' style='font-size:5.00'><tspan>9.</tspan></text>
+<text transform='matrix(-0.959380 -0.282117 0.282117 -0.959380 17.263721 109.779607)' style='font-size:5.00'><tspan>11</tspan></text>
+<text transform='matrix(-0.977566 -0.210630 0.210630 -0.977566 15.115009 82.879747)' style='font-size:5.00'><tspan>12</tspan></text>
+<text transform='matrix(0.977513 -0.210875 0.210875 0.977513 15.116937 98.426695)' style='font-size:5.00'><tspan>12</tspan></text>
+<text transform='matrix(0.025823 -0.999667 0.999667 0.025823 11.231984 77.935006)' style='font-size:5.00'><tspan>16</tspan></text>
+<text transform='matrix(0.975900 0.218220 -0.218220 0.975900 42.209578 80.410535)' style='font-size:5.00'><tspan>19</tspan></text>
+<text transform='matrix(-0.623813 0.781573 -0.781573 -0.623813 24.768491 110.021870)' style='font-size:5.00'><tspan>22</tspan></text>
+<text transform='matrix(-0.975900 0.218219 -0.218219 -0.975900 42.209585 100.869681)' style='font-size:5.00'><tspan>27</tspan></text>
+</g>
+<g>
+<text transform='translate(26.786969043314457 290.99999107420444)' style='font-size:5.00'><tspan>[1] Island 1</tspan></text>
+<path class='convex' d=' M 11.525237 254.269465 L 38.975031 256.885859
+M 14.599004 222.021143 L 42.048798 224.637541 '/>
+<path class='outer' d=' M 48.573938 204.613733 L 42.048798 224.637541 L 48.573938 241.530149 L 38.975031 256.885859 L 41.599889 277.781752 L 22.350387 285.999991 L 5.000095 274.293221 L 11.525237 254.269465 L 5.000000 237.364656 L 14.599004 222.021143 L 11.974161 201.125207 L 31.249122 192.639510 Z '/>
+<text transform='matrix(0.530369 -0.847767 0.847767 0.530369 14.886105 232.875115)' style='font-size:5.00'><tspan>1</tspan></text>
+<text transform='matrix(0.309834 -0.950791 0.950791 0.309834 13.967410 266.140348)' style='font-size:5.00'><tspan>2</tspan></text>
+<text transform='matrix(-0.309833 0.950791 -0.950791 -0.309833 39.606624 212.766635)' style='font-size:5.00'><tspan>3</tspan></text>
+<text transform='matrix(-0.919690 0.392646 -0.392646 -0.919690 29.619263 276.372734)' style='font-size:5.00'><tspan>5</tspan></text>
+<text transform='matrix(-0.124635 -0.992203 0.992203 -0.124635 19.239798 210.825357)' style='font-size:5.00'><tspan>11</tspan></text>
+<text transform='matrix(0.124636 0.992202 -0.992202 0.124636 34.334243 268.081627)' style='font-size:5.00'><tspan>13</tspan></text>
+<text transform='matrix(0.822634 0.568572 -0.568572 0.822634 36.500097 203.562419)' style='font-size:5.00'><tspan>15</tspan></text>
+<text transform='matrix(-0.360103 -0.932912 0.932912 -0.360103 13.860093 243.656444)' style='font-size:5.00'><tspan>16</tspan></text>
+<text transform='matrix(0.360325 0.932827 -0.932827 0.360325 39.714404 235.245793)' style='font-size:5.00'><tspan>17</tspan></text>
+<text transform='matrix(0.915232 -0.402926 0.402926 0.915232 24.029200 202.373753)' style='font-size:5.00'><tspan>18</tspan></text>
+<text transform='matrix(-0.530062 0.847959 -0.847959 -0.530062 38.686731 246.027633)' style='font-size:5.00'><tspan>20</tspan></text>
+<text transform='matrix(-0.828952 -0.559319 0.559319 -0.828952 17.031157 275.172892)' style='font-size:5.00'><tspan>26</tspan></text>
+</g>
+<g>
+<text transform='translate(79.91488557308912 191.63951016962528)' style='font-size:5.00'><tspan>[5] Island 5</tspan></text>
+<path class='convex' d=' M 87.697399 158.827747 L 69.588457 158.827762 '/>
+<path class='outer' d=' M 84.464003 131.016026 L 93.863134 138.690363 L 87.697399 158.827747 L 93.863134 178.965176 L 84.463996 186.639513 L 65.966641 176.570768 L 69.588457 158.827762 L 65.966648 141.084711 Z '/>
+<text transform='matrix(-0.200001 -0.979796 0.979796 -0.200001 73.656325 148.756231)' style='font-size:5.00'><tspan>7</tspan></text>
+<text transform='matrix(0.774597 0.632455 -0.632455 0.774597 85.368839 139.500777)' style='font-size:5.00'><tspan>10</tspan></text>
+<text transform='matrix(0.200002 -0.979795 0.979795 0.200002 73.656325 168.899278)' style='font-size:5.00'><tspan>14</tspan></text>
+<text transform='matrix(-0.292767 0.956184 -0.956184 -0.292767 85.043167 147.002454)' style='font-size:5.00'><tspan>15</tspan></text>
+<text transform='matrix(0.292767 0.956184 -0.956184 0.292767 85.043167 170.653055)' style='font-size:5.00'><tspan>18</tspan></text>
+<text transform='matrix(-0.774598 0.632454 -0.632454 -0.774598 85.368839 178.154754)' style='font-size:5.00'><tspan>22</tspan></text>
+<text transform='matrix(0.878310 -0.478091 0.478091 0.878310 78.083877 141.320224)' style='font-size:5.00'><tspan>24</tspan></text>
+<text transform='matrix(-0.878309 -0.478094 0.478094 -0.878309 78.083877 176.335285)' style='font-size:5.00'><tspan>27</tspan></text>
+</g>
+</g>
+</svg>

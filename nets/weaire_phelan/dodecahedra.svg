@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+    <svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' version='1.1'
+    width='210.00mm' height='297.00mm' viewBox='0 0 210.00 297.00'>
+<style type="text/css">
+    path {
+        fill: none;
+        stroke-linecap: butt;
+        stroke-linejoin: bevel;
+        stroke-dasharray: none;
+    }
+    path.outer {
+        stroke: #000000;
+        stroke-dasharray: none;
+        stroke-dashoffset: 0;
+        stroke-width: 0.1;
+        stroke-opacity: 1.0;
+    }
+    path.convex {
+        stroke: #ff0000;
+        stroke-dasharray: none;
+        stroke-dashoffset:0;
+        stroke-width:0.1;
+        stroke-opacity: 1.0
+    }
+    path.concave {
+        stroke: #ff0000;
+        stroke-dasharray: none;
+        stroke-dashoffset: 0;
+        stroke-width: 0.1;
+        stroke-opacity: 1.0
+    }
+    path.freestyle {
+        stroke: #000000;
+        stroke-dasharray: none;
+        stroke-dashoffset: 0;
+        stroke-width: 0.1;
+        stroke-opacity: 1.0
+    }
+    path.outer_background {
+        stroke: #ffffff;
+        stroke-opacity: 1.0;
+        stroke-width: 0.5
+    }
+    path.inner_background {
+        stroke: #ffffff;
+        stroke-opacity: 1.0;
+        stroke-width: 0.2
+    }
+    path.sticker {
+        fill: #e5e5e5;
+        stroke: none;
+        fill-opacity: 1.0;
+    }
+    path.arrow {
+        fill: #000;
+    }
+    text {
+        font-style: normal;
+        fill: #000000;
+        fill-opacity: 1.0;
+        stroke: none;
+    }
+    text, tspan {
+        text-anchor:middle;
+    }
+    </style>
+<g>
+<path class='convex' d=' M 50.286424 175.498213 L 64.386723 199.194583
+M 78.283106 286.530043 L 79.461877 258.981059
+M 49.074528 213.653575 L 64.386723 199.194583
+M 79.461877 258.981059 L 59.124594 253.511096
+M 59.124594 253.511096 L 58.555645 232.458736
+M 56.117480 142.234023 L 29.380147 148.975874
+M 85.292970 225.716929 L 58.555645 232.458736
+M 25.012140 236.375163 L 39.112438 260.071541
+M 50.286424 175.498213 L 65.598627 161.039214
+M 89.661022 138.317565 L 75.560679 114.621158
+M 56.117480 142.234023 L 55.548509 121.181647 '/>
+<path class='outer' d=' M 85.292970 225.716929 L 94.774087 244.522090 L 79.461877 258.981059 L 100.192052 255.268316 L 109.673192 274.073447 L 98.620360 291.999991 L 78.283106 286.530043 L 57.552894 290.242787 L 48.071784 271.437625 L 59.124594 253.511096 L 39.112438 260.071541 L 23.800259 274.530525 L 5.568926 263.987969 L 5.000000 242.935608 L 25.012140 236.375163 L 40.324342 221.916194 L 58.555645 232.458736 L 49.074528 213.653575 L 30.843233 203.111018 L 30.274262 182.058658 L 50.286424 175.498213 L 29.949103 170.028265 L 29.380147 148.975874 L 19.898986 130.170713 L 35.211195 115.711684 L 55.548509 121.181647 L 75.560679 114.621158 L 90.872888 100.162174 L 109.104236 110.704715 L 109.673192 131.757106 L 89.661022 138.317565 L 74.348805 152.776564 L 56.117480 142.234023 L 65.598627 161.039214 L 83.829929 171.581770 L 84.398885 192.634138 L 64.386723 199.194583 L 84.724006 204.664554 Z '/>
+<text transform='matrix(-0.984338 0.176293 -0.176293 -0.984338 66.860241 282.480388)' style='font-size:5.00'><tspan>1</tspan></text>
+<text transform='matrix(0.727072 -0.686561 0.686561 0.727072 31.674455 127.303625)' style='font-size:5.00'><tspan>1</tspan></text>
+<text transform='matrix(-0.727073 0.686560 -0.686560 -0.727073 77.885550 141.184623)' style='font-size:5.00'><tspan>2</tspan></text>
+<text transform='matrix(0.865682 0.500595 -0.500595 0.865682 71.710710 171.504575)' style='font-size:5.00'><tspan>2</tspan></text>
+<text transform='matrix(-0.865682 -0.500594 0.500594 -0.865682 68.236706 142.311196)' style='font-size:5.00'><tspan>3</tspan></text>
+<text transform='matrix(0.450195 0.892930 -0.892930 0.450195 55.500471 154.337789)' style='font-size:5.00'><tspan>3</tspan></text>
+<text transform='matrix(-0.450194 -0.892931 0.892931 -0.450194 58.169921 278.139041)' style='font-size:5.00'><tspan>4</tspan></text>
+<text transform='matrix(-0.727073 0.686560 -0.686560 -0.727073 27.336986 262.938595)' style='font-size:5.00'><tspan>4</tspan></text>
+<text transform='matrix(-0.950242 0.311511 -0.311511 -0.950242 47.249448 251.089863)' style='font-size:5.00'><tspan>5</tspan></text>
+<text transform='matrix(0.524824 -0.851211 0.851211 0.524824 58.705454 265.623304)' style='font-size:5.00'><tspan>5</tspan></text>
+<text transform='matrix(-0.027014 -0.999635 0.999635 -0.027014 11.282274 253.299701)' style='font-size:5.00'><tspan>6.</tspan></text>
+<text transform='matrix(-0.027016 -0.999635 0.999635 -0.027016 35.662436 159.339975)' style='font-size:5.00'><tspan>6.</tspan></text>
+<text transform='matrix(0.727074 -0.686559 0.686559 0.727074 36.787597 233.508120)' style='font-size:5.00'><tspan>7</tspan></text>
+<text transform='matrix(-0.865682 -0.500595 0.500595 -0.865682 42.962451 203.188206)' style='font-size:5.00'><tspan>7</tspan></text>
+<text transform='matrix(-0.865682 -0.500594 0.500594 -0.865682 17.688158 264.065155)' style='font-size:5.00'><tspan>8</tspan></text>
+<text transform='matrix(-0.450196 -0.892930 0.892930 -0.450196 29.997145 136.872123)' style='font-size:5.00'><tspan>8</tspan></text>
+<text transform='matrix(-0.727074 0.686559 -0.686559 -0.727074 82.998623 247.389133)' style='font-size:5.00'><tspan>9.</tspan></text>
+<text transform='matrix(0.984338 -0.176293 0.176293 0.984338 90.884720 263.030714)' style='font-size:5.00'><tspan>9.</tspan></text>
+<text transform='matrix(0.950242 -0.311511 0.311511 0.950242 42.149411 184.479888)' style='font-size:5.00'><tspan>10</tspan></text>
+<text transform='matrix(-0.965681 -0.259731 0.259731 -0.965681 41.676146 166.969146)' style='font-size:5.00'><tspan>10</tspan></text>
+<text transform='matrix(-0.950242 0.311512 -0.311512 -0.950242 97.798039 129.335876)' style='font-size:5.00'><tspan>11</tspan></text>
+<text transform='matrix(0.027016 0.999635 -0.999635 0.027016 78.116600 182.270045)' style='font-size:5.00'><tspan>11</tspan></text>
+<text transform='matrix(0.965681 0.259732 -0.259732 0.965681 72.996971 207.723650)' style='font-size:5.00'><tspan>12</tspan></text>
+<text transform='matrix(-0.950242 0.311511 -0.311511 -0.950242 72.523733 190.212908)' style='font-size:5.00'><tspan>12</tspan></text>
+<text transform='matrix(0.450194 0.892931 -0.892931 0.450194 84.675943 237.820677)' style='font-size:5.00'><tspan>13</tspan></text>
+<text transform='matrix(0.865682 0.500593 -0.500593 0.865682 96.985002 110.627542)' style='font-size:5.00'><tspan>13</tspan></text>
+<text transform='matrix(-0.524824 0.851211 -0.851211 -0.524824 99.039515 279.887773)' style='font-size:5.00'><tspan>14</tspan></text>
+<text transform='matrix(0.950242 -0.311513 0.311513 0.950242 67.423672 123.602862)' style='font-size:5.00'><tspan>14</tspan></text>
+<text transform='matrix(-0.965681 -0.259731 0.259731 -0.965681 90.010119 283.470931)' style='font-size:5.00'><tspan>15</tspan></text>
+<text transform='matrix(0.965681 0.259731 -0.259731 0.965681 43.821462 124.240751)' style='font-size:5.00'><tspan>15</tspan></text>
+<text transform='matrix(0.727074 -0.686560 0.686560 0.727074 87.336143 111.754100)' style='font-size:5.00'><tspan>16</tspan></text>
+<text transform='matrix(0.450196 0.892930 -0.892930 0.450196 99.575047 267.372056)' style='font-size:5.00'><tspan>16</tspan></text>
+<text transform='matrix(0.865682 0.500594 -0.500594 0.865682 46.436426 232.381555)' style='font-size:5.00'><tspan>17</tspan></text>
+<text transform='matrix(-0.450194 -0.892931 0.892931 -0.450194 59.172668 220.354992)' style='font-size:5.00'><tspan>17</tspan></text>
+<text transform='matrix(-0.027017 -0.999635 0.999635 -0.027017 36.556558 192.422736)' style='font-size:5.00'><tspan>18</tspan></text>
+<text transform='matrix(0.950242 -0.311512 0.311512 0.950242 16.875139 245.356838)' style='font-size:5.00'><tspan>18</tspan></text>
+<text transform='matrix(0.027016 0.999635 -0.999635 0.027016 79.010685 215.352836)' style='font-size:5.00'><tspan>19</tspan></text>
+<text transform='matrix(0.027016 0.999635 -0.999635 0.027016 103.390907 121.393005)' style='font-size:5.00'><tspan>19</tspan></text>
+</g>
+</svg>

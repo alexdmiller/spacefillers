@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="simutils">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/simutils.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/colorutils.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
